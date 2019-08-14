@@ -1,0 +1,11 @@
+C:\Users\surassa\source\repos\numero\numero\bin\Debug\netcoreapp2.1\numero.deps.json
+C:\Users\surassa\source\repos\numero\numero\bin\Debug\netcoreapp2.1\numero.runtimeconfig.json
+C:\Users\surassa\source\repos\numero\numero\bin\Debug\netcoreapp2.1\numero.runtimeconfig.dev.json
+C:\Users\surassa\source\repos\numero\numero\bin\Debug\netcoreapp2.1\numero.dll
+C:\Users\surassa\source\repos\numero\numero\bin\Debug\netcoreapp2.1\numero.pdb
+C:\Users\surassa\source\repos\numero\numero\obj\Debug\netcoreapp2.1\numero.csprojAssemblyReference.cache
+C:\Users\surassa\source\repos\numero\numero\obj\Debug\netcoreapp2.1\numero.csproj.CoreCompileInputs.cache
+C:\Users\surassa\source\repos\numero\numero\obj\Debug\netcoreapp2.1\numero.AssemblyInfoInputs.cache
+C:\Users\surassa\source\repos\numero\numero\obj\Debug\netcoreapp2.1\numero.AssemblyInfo.cs
+C:\Users\surassa\source\repos\numero\numero\obj\Debug\netcoreapp2.1\numero.dll
+C:\Users\surassa\source\repos\numero\numero\obj\Debug\netcoreapp2.1\numero.pdb
