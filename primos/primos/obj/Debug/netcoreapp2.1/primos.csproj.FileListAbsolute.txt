@@ -1,0 +1,11 @@
+C:\Users\surassa\source\repos\primos\primos\bin\Debug\netcoreapp2.1\primos.deps.json
+C:\Users\surassa\source\repos\primos\primos\bin\Debug\netcoreapp2.1\primos.runtimeconfig.json
+C:\Users\surassa\source\repos\primos\primos\bin\Debug\netcoreapp2.1\primos.runtimeconfig.dev.json
+C:\Users\surassa\source\repos\primos\primos\bin\Debug\netcoreapp2.1\primos.dll
+C:\Users\surassa\source\repos\primos\primos\bin\Debug\netcoreapp2.1\primos.pdb
+C:\Users\surassa\source\repos\primos\primos\obj\Debug\netcoreapp2.1\primos.csprojAssemblyReference.cache
+C:\Users\surassa\source\repos\primos\primos\obj\Debug\netcoreapp2.1\primos.csproj.CoreCompileInputs.cache
+C:\Users\surassa\source\repos\primos\primos\obj\Debug\netcoreapp2.1\primos.AssemblyInfoInputs.cache
+C:\Users\surassa\source\repos\primos\primos\obj\Debug\netcoreapp2.1\primos.AssemblyInfo.cs
+C:\Users\surassa\source\repos\primos\primos\obj\Debug\netcoreapp2.1\primos.dll
+C:\Users\surassa\source\repos\primos\primos\obj\Debug\netcoreapp2.1\primos.pdb
