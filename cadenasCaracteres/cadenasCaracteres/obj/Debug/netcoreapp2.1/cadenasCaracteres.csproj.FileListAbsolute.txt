@@ -1,0 +1,11 @@
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\bin\Debug\netcoreapp2.1\cadenasCaracteres.deps.json
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\bin\Debug\netcoreapp2.1\cadenasCaracteres.runtimeconfig.json
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\bin\Debug\netcoreapp2.1\cadenasCaracteres.runtimeconfig.dev.json
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\bin\Debug\netcoreapp2.1\cadenasCaracteres.dll
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\bin\Debug\netcoreapp2.1\cadenasCaracteres.pdb
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\obj\Debug\netcoreapp2.1\cadenasCaracteres.csprojAssemblyReference.cache
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\obj\Debug\netcoreapp2.1\cadenasCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\obj\Debug\netcoreapp2.1\cadenasCaracteres.AssemblyInfoInputs.cache
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\obj\Debug\netcoreapp2.1\cadenasCaracteres.AssemblyInfo.cs
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\obj\Debug\netcoreapp2.1\cadenasCaracteres.dll
+C:\Users\surassa\source\repos\cadenasCaracteres\cadenasCaracteres\obj\Debug\netcoreapp2.1\cadenasCaracteres.pdb
